@@ -53,6 +53,11 @@ fieldset label {
     margin-top: .2rem;
 }
 
+.field-id input {
+    margin-top: .25rem;
+    margin-bottom: .5rem;
+}
+
 .suggestion {
     display: flex;
     flex-direction: column;
